@@ -90,23 +90,27 @@ def slugify(s):
 
 def write_post(title, content_md, url, published):
     date_part = ""
-    # try to extract date yyyy-mm-dd from published if present:
     m = re.search(r'(20\\d{2}-\\d{2}-\\d{2})', published or "")
     if m: date_part = m.group(1) + "-"
     slug = date_part + slugify(title or "untitled")
     path_md = os.path.join(POSTS_DIR, f"{slug}.md")
 
+    # ---- fix: avoid backslashes in f-string expressions ----
+    safe_title = (title or "Untitled").replace('"', "'")  # swap double quotes for single
+    # --------------------------------------------------------
+
     fm = [
         "---",
-        f'title: "{title.replace(\'\"\', \"\\\"\')}"',
+        f'title: "{safe_title}"',
         f"source_url: {url}",
         f"published: {published or ''}",
         "---",
         "",
     ]
     with open(path_md, "w", encoding="utf-8") as f:
-        f.write("\\n".join(fm) + content_md.strip() + "\\n")
+        f.write("\n".join(fm) + content_md.strip() + "\n")
     return {"title": title, "url": f"posts/{slug}.md", "source_url": url, "published": published or ""}
+
 
 def crawl():
     assert START_URL, "START_URL is required"
