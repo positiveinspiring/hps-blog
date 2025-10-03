@@ -25,6 +25,9 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      - name: Syntax check
+        run: python -m py_compile scripts/crawl.py
+
       - name: Crawl site
         env:
           START_URL: ${{ secrets.START_URL }}
