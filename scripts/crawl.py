@@ -137,11 +137,13 @@ def crawl():
     seen = set([start])
     queue = [start]
 
-    if ARCHIVE_URL:
-        archive = norm_url(start, ARCHIVE_URL)
-        if archive not in seen:
+if ARCHIVE_URL:
+    for raw in ARCHIVE_URL.split(","):
+        archive = norm_url(start, raw.strip())
+        if archive and archive not in seen:
             seen.add(archive)
             queue.append(archive)
+
 
     post_urls = set()
     pages_crawled = 0
