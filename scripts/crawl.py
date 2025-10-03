@@ -4,7 +4,7 @@ import re
 import json
 import time
 import random
-import urllib.parse
+from urllib.parse import urlparse, urljoin
 import requests
 from bs4 import BeautifulSoup
 from readability import Document
@@ -12,14 +12,30 @@ from markdownify import markdownify as md
 
 # ---- Config from secrets/env ----
 START_URL = os.getenv("START_URL")                  # e.g., https://highprobabilityselling.blog/
-ARCHIVE_URL = os.getenv("ARCHIVE_URL", "")          # optional
-ALLOWED_DOMAINS = os.getenv("ALLOWED_DOMAINS", "")  # e.g., highprobabilityselling.blog
+ARCHIVE_URL = os.getenv("ARCHIVE_URL", "")          # optional; comma-separated list of author/archive URLs
+ALLOWED_DOMAINS = os.getenv("ALLOWED_DOMAINS", "")  # not used for scope anymore; kept for compatibility
 MAX_PAGES = int(os.getenv("MAX_PAGES", "2000"))
 REQUEST_DELAY = float(os.getenv("REQUEST_DELAY", "1.0"))
 
 OUT_DIR = "docs"
 POSTS_DIR = os.path.join(OUT_DIR, "posts")
 STATE_FILE = os.path.join(OUT_DIR, "index.json")
+
+# ---- Site scope & filters ----
+BASE_HOST = urlparse(START_URL or "").netloc.lower()
+SKIP_HOSTS = {
+    "linkedin.com", "www.linkedin.com",
+    "facebook.com", "www.facebook.com",
+    "x.com", "twitter.com", "t.co",
+    "instagram.com", "www.instagram.com",
+    "youtube.com", "www.youtube.com",
+    "medium.com", "pinterest.com", "www.pinterest.com"
+}
+SKIP_PATH_KEYWORDS = [
+    "/tag/", "/category/", "/wp-json/", "/feed", "/feeds",
+    "/login", "/log-in", "/signin", "/sign-in", "/signup", "/join",
+    "/user-agreement", "/privacy", "/cookie", "/cookies", "/legal", "/terms"
+]
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (compatible; HPSMirrorBot/1.0; +https://github.com/<your-username>/<your-repo>)"
@@ -29,14 +45,17 @@ os.makedirs(POSTS_DIR, exist_ok=True)
 
 # ---- helpers ----
 def norm_url(base, url):
-    return urllib.parse.urljoin(base, url.split("#")[0].strip())
+    return urljoin(base, (url or "").split("#")[0].strip())
 
 def in_scope(url):
-    if not ALLOWED_DOMAINS:
+    """
+    Only allow same-site links (relative or same host/subdomain of BASE_HOST).
+    """
+    u = urlparse(url or "")
+    host = (u.netloc or "").lower()
+    if host == "" or host == BASE_HOST or (BASE_HOST and host.endswith("." + BASE_HOST)):
         return True
-    host = urllib.parse.urlparse(url).netloc.lower()
-    domains = [d.strip().lower() for d in ALLOWED_DOMAINS.split(",") if d.strip()]
-    return any(host.endswith(d) for d in domains)
+    return False
 
 def fetch(url, tries=4):
     backoff = 1.0
@@ -57,26 +76,51 @@ def fetch(url, tries=4):
             backoff *= 2
 
 def discover_links(html, base_url):
+    """
+    Collects only same-site content links; drops social, legal, auth, and other junk.
+    """
     soup = BeautifulSoup(html, "html.parser")
     links = set()
     for a in soup.find_all("a", href=True):
-        u = norm_url(base_url, a["href"])
-        if in_scope(u):
-            links.add(u)
+        href = a["href"].strip()
+        # ignore fragments / scripts / mail links
+        if href.startswith("#") or href.startswith("javascript:") or href.startswith("mailto:") or href.startswith("tel:"):
+            continue
+
+        u = norm_url(base_url, href)
+        if not in_scope(u):
+            continue
+
+        pu = urlparse(u)
+        if pu.netloc.lower() in SKIP_HOSTS:
+            continue
+
+        path = pu.path.lower()
+        if any(k in path for k in SKIP_PATH_KEYWORDS):
+            continue
+
+        links.add(u)
     return links
 
 def looks_like_post(url):
-    path = urllib.parse.urlparse(url).path.lower()
+    """
+    Heuristic: treat any non-root page on our site as a candidate,
+    excluding tag/category/author/pagination and binary assets.
+    """
+    path = urlparse(url).path.lower()
     if any(seg in path for seg in ["/tag/", "/category/", "/author/", "/page/", "/wp-json/"]):
         return False
-    if path.endswith((".xml", ".rss", ".pdf", ".jpg", ".jpeg", ".png", ".gif", ".svg", ".ico")):
+    if path.endswith((
+        ".xml", ".rss", ".pdf", ".jpg", ".jpeg", ".png", ".gif", ".svg", ".ico", ".webp", ".zip"
+    )):
         return False
-    return path.count("/") >= 2 and len(path) > 1
+    return len(path.strip("/")) > 0
 
 def extract_post(html, url):
     doc = Document(html)
     title = (doc.short_title() or url).strip()
     content_html = doc.summary()
+
     soup = BeautifulSoup(content_html, "html.parser")
     for tag in soup(["script", "style", "noscript", "nav", "header", "footer", "form"]):
         tag.decompose()
@@ -98,7 +142,7 @@ def extract_post(html, url):
             published = (m.get("content") or m.get("value")).strip()
             break
 
-    content_md = md(content_html, strip=["img"])
+    content_md = md(content_html, strip=["img"])  # keep text only (change if you want images)
     return title, content_md, published
 
 def slugify(s):
@@ -107,9 +151,8 @@ def slugify(s):
     return re.sub(r"-+", "-", s).strip("-")
 
 def write_post(title, content_md, url, published):
-    # prepend date when detectable
     date_part = ""
-    m = re.search(r"(20\\d{2}-\\d{2}-\\d{2})", published or "")
+    m = re.search(r"(20\d{2}-\d{2}-\d{2})", (published or ""))
     if m:
         date_part = m.group(1) + "-"
     slug = date_part + slugify(title or "untitled")
@@ -133,14 +176,13 @@ def write_post(title, content_md, url, published):
 def crawl():
     assert START_URL, "START_URL is required"
 
-    # define start FIRST
     start = START_URL if START_URL.endswith("/") else START_URL + "/"
+    print("BASE_HOST:", BASE_HOST)
 
-    # init crawl state
     seen = set([start])
     queue = [start]
 
-    # --- multi-archive seeds (comma-separated in ARCHIVE_URL) ---
+    # Support multiple archive/author seeds via comma-separated ARCHIVE_URL
     if ARCHIVE_URL:
         archives = [a.strip() for a in ARCHIVE_URL.split(",") if a.strip()]
         for raw in archives:
@@ -148,10 +190,9 @@ def crawl():
             if archive and archive not in seen:
                 seen.add(archive)
                 queue.append(archive)
-        print(f"Seeded archives: {archives}")
-    # -------------------------------------------------------------
+        print("Seeded archives:", archives)
 
-
+    print("Initial queue size:", len(queue))
 
     post_urls = set()
     pages_crawled = 0
@@ -169,10 +210,15 @@ def crawl():
         for u in links:
             if u not in seen and in_scope(u):
                 seen.add(u)
+                # Only enqueue likely HTML pages (skip obvious binaries)
                 if not re.search(r"\.(png|jpg|jpeg|gif|svg|pdf|zip|mp4|mp3|rss|xml)(\?.*)?$", u, re.I):
                     queue.append(u)
             if looks_like_post(u):
                 post_urls.add(u)
+
+        # optional: light progress logging every 50 pages
+        if pages_crawled % 50 == 0:
+            print(f"Progress: crawled={pages_crawled}, queue={len(queue)}, posts_found={len(post_urls)}")
 
     print(f"Discovered {len(post_urls)} candidate posts out of {pages_crawled} pages crawled.")
 
@@ -186,7 +232,6 @@ def crawl():
         except Exception as e:
             print("Post error:", purl, e)
 
-    # newest first by published, then title
     def sort_key(x):
         return (x.get("published") or "", x.get("title") or "")
     items_sorted = sorted(items, key=sort_key, reverse=True)
