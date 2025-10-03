@@ -144,7 +144,8 @@ def crawl():
             if looks_like_post(u):
                 post_urls.add(u)
 
-    print(f\"Discovered {len(post_urls)} candidate posts out of {pages_crawled} pages crawled.\")
+    print(f"Discovered {len(post_urls)} candidate posts out of {pages_crawled} pages crawled.")
+
 
     items = []
     for purl in sorted(post_urls):
