@@ -132,17 +132,25 @@ def write_post(title, content_md, url, published):
 # ---- main crawl ----
 def crawl():
     assert START_URL, "START_URL is required"
+
+    # define start FIRST
     start = START_URL if START_URL.endswith("/") else START_URL + "/"
 
+    # init crawl state
     seen = set([start])
     queue = [start]
 
-if ARCHIVE_URL:
-    for raw in ARCHIVE_URL.split(","):
-        archive = norm_url(start, raw.strip())
-        if archive and archive not in seen:
-            seen.add(archive)
-            queue.append(archive)
+    # --- multi-archive seeds (comma-separated in ARCHIVE_URL) ---
+    if ARCHIVE_URL:
+        archives = [a.strip() for a in ARCHIVE_URL.split(",") if a.strip()]
+        for raw in archives:
+            archive = norm_url(start, raw)
+            if archive and archive not in seen:
+                seen.add(archive)
+                queue.append(archive)
+        print(f"Seeded archives: {archives}")
+    # -------------------------------------------------------------
+
 
 
     post_urls = set()
