@@ -29,13 +29,15 @@ jobs:
         run: python -m py_compile scripts/crawl.py
 
       - name: Crawl site
-        env:
-          START_URL: ${{ secrets.START_URL }}
-          ARCHIVE_URL: ${{ secrets.ARCHIVE_URL }}
-          ALLOWED_DOMAINS: ${{ secrets.ALLOWED_DOMAINS }}
-          MAX_PAGES: "2000"
-          REQUEST_DELAY: "0.8"
-        run: python scripts/crawl.py
+  env:
+    PYTHONUNBUFFERED: "1"        # force unbuffered stdout/stderr
+    START_URL: ${{ secrets.START_URL }}
+    ARCHIVE_URL: ${{ secrets.ARCHIVE_URL }}
+    ALLOWED_DOMAINS: ${{ secrets.ALLOWED_DOMAINS }}
+    MAX_PAGES: "2000"
+    REQUEST_DELAY: "1.0"
+  run: python -u scripts/crawl.py
+
 
       - name: Commit & push changes
         run: |
