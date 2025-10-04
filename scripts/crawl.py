@@ -262,14 +262,13 @@ def crawl():
     pages_crawled = 0
 
     while queue and pages_crawled < MAX_PAGES:
-    url = queue.pop(0)
-    print("Fetching:", url); sys.stdout.flush()
-    try:
-        html = fetch(url)
-    except Exception as e:
-        print("Fetch error:", url, e); sys.stdout.flush()
-        continue
-
+        url = queue.pop(0)
+        print("Fetching:", url); sys.stdout.flush()
+        try:
+            html = fetch(url)
+        except Exception as e:
+            print("Fetch error:", url, e); sys.stdout.flush()
+            continue
 
         pages_crawled += 1
 
