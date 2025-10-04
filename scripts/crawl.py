@@ -4,6 +4,7 @@ import re
 import json
 import time
 import random
+import sys
 from urllib.parse import urlparse, urljoin, urlsplit, urlunsplit
 
 import requests
@@ -238,7 +239,9 @@ def crawl():
     assert START_URL, "START_URL is required"
 
     start = START_URL if START_URL.endswith("/") else START_URL + "/"
-    print("BASE_HOST:", BASE_HOST)
+    print("Starting crawl()")
+    print("BASE_HOST:", BASE_HOST); sys.stdout.flush()
+
 
     seen = set([start])
     queue = [start]
@@ -259,12 +262,14 @@ def crawl():
     pages_crawled = 0
 
     while queue and pages_crawled < MAX_PAGES:
-        url = queue.pop(0)
-        try:
-            html = fetch(url)
-        except Exception as e:
-            print("Fetch error:", url, e)
-            continue
+    url = queue.pop(0)
+    print("Fetching:", url); sys.stdout.flush()
+    try:
+        html = fetch(url)
+    except Exception as e:
+        print("Fetch error:", url, e); sys.stdout.flush()
+        continue
+
 
         pages_crawled += 1
 
