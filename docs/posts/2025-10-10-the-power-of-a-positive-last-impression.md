@@ -1,7 +1,7 @@
 ---
-title: "High Probability Selling Blog"
-source_url: https://highprobabilityselling.blog/2025/10
-published: 
+title: "The Power of a Positive Last Impression"
+source_url: https://highprobabilityselling.blog/2025/10/10/the-power-of-a-positive-last-impression/comment-page-1
+published: 2025-10-10T20:31:07+00:00
 ---
 There was a [recent blog post](https://highprobabilityselling.blog/2025/09/26/why-hearing-an-early-no-is-a-gift-in-selling/) on the benefits of hearing a quick “no” when prospecting. Here are some additional thoughts on that concept. When non\-HPS salespeople hear you accept “no” for an answer, it goes against all of their traditional and logical sales indoctrination. Some say it’s counter\-cultural, counter\-productive, and at least counterintuitive.
 
@@ -37,62 +37,31 @@ Because by giving your prospect the power to say “no,” you also keep your p
 
 
 
-### Like this:
-
-Like Loading...
-
- 
 
 
 
 
-A few days ago, we sent an email to most of the people who subscribe to the HPS Blog.  We asked questions about posting frequency, length of posts, type of content, style, and anything else.
+* Practitioner, student, and trainer and coach in High Probability Selling for over a quarter century. 
 
 
-The email was sent to 256 subscribers.  The reported open rate was 36%.  Several people took the time to respond.  Here’s what we learned:
 
-
-### Frequency
-
-
-Opinions varied.  Some want a post every weekday, while others prefer just one per week.  Most readers seem comfortable with the current pace of 3–4 posts per week.
-
-
-### Length
-
-
-A mix of lengths works best.  Short posts are easy to digest, but many readers also want the occasional longer or deeper article.
-
-
-### Content
-
-
-Readers are most interested in clear, practical applications of HPS and concepts that they can use right away.  Comparisons with other sales methods should be minimal.  Case studies are welcome.
-
-
-### Style
-
-
-Most responses indicate satisfaction with the current style.  A practical and informative tone is appreciated, with some readers valuing variety in approach.
+[View all posts](https://highprobabilityselling.blog/author/paulbunnhps/ "View all posts")
 
 
 
 
----
-
-
-Our Conclusions
----------------
-
-
-* We will continue posting at roughly 3–4 times per week, while keeping in mind that some readers prefer fewer, and some prefer more.
-* We will maintain a mix of short posts and occasionally publish longer pieces, especially case studies or deeper explorations.
-* We will stay with our current tone — clear, conversational, and useful.
-
-
-Thank you to everyone who responded.  Your feedback helps us keep the HPS Blog relevant and valuable. 
 
 
 ### Like this:
 
 Like Loading...
+
+
+
+
+Author: Paul Bunn
+-----------------
+
+
+
+ Practitioner, student, and trainer and coach in High Probability Selling for over a quarter century. [View all posts by Paul Bunn](https://highprobabilityselling.blog/author/paulbunnhps/)
