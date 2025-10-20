@@ -35,7 +35,7 @@ Paul Bunn and Carl Ingalls will discuss this topic, “Selling to Engineers” i
 
 
 
-* Practitioner, student, and trainer and coach in High Probability Selling for over a quarter century. 
+* Practitioner, student, and trainer and coach in High Probability Selling for over a quarter century.
 
 
 

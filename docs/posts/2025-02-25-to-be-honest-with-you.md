@@ -25,7 +25,7 @@ A reply to my post on Reddit was as follows: “Never thought about it that way!
 
 
 
-* Practitioner, student, and trainer and coach in High Probability Selling for over a quarter century. 
+* Practitioner, student, and trainer and coach in High Probability Selling for over a quarter century.
 
 
 

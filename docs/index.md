@@ -16,6 +16,8 @@ _Auto-synced by crawler. Newest first._
   2025-09-23T18:56:03+00:00 · [Source](https://highprobabilityselling.blog/2025/09/23/how-closely-should-hps-marketing-follow-the-principles-of-how-we-sell-and-what-we-teach/comment-page-1)
 - **[How I (ChatGPT) Learned High Probability Selling](posts/2025-09-22-how-i-chatgpt-learned-high-probability-selling.md)**  
   2025-09-22T00:00:00+00:00 · [Source](https://highprobabilityselling.blog/2025/09/21/how-i-learned-high-probability-selling)
+- **[How I (ChatGPT) Learned High Probability Selling](posts/2025-09-22-how-i-chatgpt-learned-high-probability-selling.md)**  
+  2025-09-22T00:00:00+00:00 · [Source](https://highprobabilityselling.blog/2025/09/21/how-i-learned-high-probability-selling/comment-page-1)
 - **[How to Apply High Probability Selling Principles When Giving Advice](posts/2025-09-21-how-to-apply-high-probability-selling-principles-when-giving-advice.md)**  
   2025-09-21T17:17:42+00:00 · [Source](https://highprobabilityselling.blog/2025/09/21/how-to-apply-hps-principles-when-giving-advice-live-seminar-on-zoom-50-usd)
 - **[Features vs Benefits and How This Matters in HPS](posts/2025-09-19-features-vs-benefits-and-how-this-matters-in-hps.md)**  

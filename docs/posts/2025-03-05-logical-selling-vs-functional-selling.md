@@ -19,7 +19,7 @@ This cognitive dissonance between what’s logical and what works is very well a
 
 
 
-* Practitioner, student, and trainer and coach in High Probability Selling for over a quarter century. 
+* Practitioner, student, and trainer and coach in High Probability Selling for over a quarter century.
 
 
 

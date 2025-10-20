@@ -22,7 +22,7 @@ Worth a careful readâ€¦or three. I get something more everytime I read it. Sethâ
 
 
 
-* Practitioner, student, and trainer and coach in High Probability Selling for over a quarter century. 
+* Practitioner, student, and trainer and coach in High Probability Selling for over a quarter century.
 
 
 

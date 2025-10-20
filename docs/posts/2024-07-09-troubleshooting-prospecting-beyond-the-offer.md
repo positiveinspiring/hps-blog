@@ -22,7 +22,7 @@ The next time it seems like your offer “DOESN’T work”, step back and look 
 
 
 
-* Practitioner, student, and trainer and coach in High Probability Selling for over a quarter century. 
+* Practitioner, student, and trainer and coach in High Probability Selling for over a quarter century.
 
 
 

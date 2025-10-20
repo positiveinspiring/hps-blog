@@ -39,7 +39,7 @@ Here is how I (Paul Bunn, aka [Illustrious\_Bunnster](https://www.reddit.com/use
 
 
 
-* Practitioner, student, and trainer and coach in High Probability Selling for over a quarter century. 
+* Practitioner, student, and trainer and coach in High Probability Selling for over a quarter century.
 
 
 

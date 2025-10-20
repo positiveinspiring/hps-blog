@@ -67,7 +67,7 @@ No bots are allowed.  This includes AI note\-takers and recorders.  Humans onl
 
 
 
-* Practitioner, student, and trainer and coach in High Probability Selling for over a quarter century. 
+* Practitioner, student, and trainer and coach in High Probability Selling for over a quarter century.
 
 
 

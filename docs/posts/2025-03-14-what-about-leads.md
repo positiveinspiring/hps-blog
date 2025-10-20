@@ -52,7 +52,7 @@ Of course, you could also sell guns to both sides.  But I digress
 
 
 
-* Practitioner, student, and trainer and coach in High Probability Selling for over a quarter century. 
+* Practitioner, student, and trainer and coach in High Probability Selling for over a quarter century.
 
 
 

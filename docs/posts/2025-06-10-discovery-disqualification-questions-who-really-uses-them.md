@@ -65,7 +65,7 @@ There is no charge to attend.  You are welcome to invite friends and colleagues
 
 
 
-* Practitioner, student, and trainer and coach in High Probability Selling for over a quarter century. 
+* Practitioner, student, and trainer and coach in High Probability Selling for over a quarter century.
 
 
 

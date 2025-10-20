@@ -34,7 +34,7 @@ The problem is that almost no salespeople bother asking IF the prospect wants to
 
 
 
-* Practitioner, student, and trainer and coach in High Probability Selling for over a quarter century. 
+* Practitioner, student, and trainer and coach in High Probability Selling for over a quarter century.
 
 
 

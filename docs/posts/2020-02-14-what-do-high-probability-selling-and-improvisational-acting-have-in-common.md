@@ -60,11 +60,15 @@ Learning to listen, connect, and play like an improviser can make all the differ
 
 * JULIUS CSIZMAZIA \- Team Building Coach \| Sales Motivational Speaker \| Corporate Magician
 
-At JULIUS TEAM BUILDING in Jacksonville, FL, I deliver customized team building and motivational speaking programs that are highly interactive, and easy to set up.
+
+At JULIUS TEAM BUILDING in Jacksonville, FL, I deliver customized team building and motivational speaking programs that are highly interactive, and easy to set up.  
+
 <https://JuliusTeamBuilding.com>
 
-As JULIUS MAGIC \- Magician in Jacksonville, FL, I perform clean birthday party magic shows \& mingling magic entertainment for corporate events.
-<https://JuliusMagic.webs.com> 
+
+As JULIUS MAGIC \- Magician in Jacksonville, FL, I perform clean birthday party magic shows \& mingling magic entertainment for corporate events.  
+
+<https://JuliusMagic.webs.com>
 
 
 

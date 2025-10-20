@@ -19,7 +19,7 @@ For example, any excess or inauthentic enthusiasm, although espoused by many a s
 
 
 
-* Practitioner, student, and trainer and coach in High Probability Selling for over a quarter century. 
+* Practitioner, student, and trainer and coach in High Probability Selling for over a quarter century.
 
 
 
