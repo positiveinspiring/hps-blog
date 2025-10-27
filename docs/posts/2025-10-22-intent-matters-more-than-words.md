@@ -1,7 +1,7 @@
 ---
-title: "High Probability Selling Blog"
-source_url: https://highprobabilityselling.blog/2025/10
-published: 
+title: "Intent Matters More Than Words"
+source_url: https://highprobabilityselling.blog/2025/10/22/hps-community-forum-meeting-its-not-the-words-its-the-intention-thu-23-oct-2025
+published: 2025-10-22T13:58:25+00:00
 ---
 Dear Readers,
 
