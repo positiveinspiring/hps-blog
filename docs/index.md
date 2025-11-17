@@ -2,6 +2,10 @@
 
 _Auto-synced by crawler. Newest first._
 
+- **[Recognizing Leakage: The Subtle Signs of Persuasion](posts/2025-11-10-recognizing-leakage-the-subtle-signs-of-persuasion.md)**  
+  2025-11-10T13:51:22+00:00 · [Source](https://highprobabilityselling.blog/2025/11/10/recognizing-leakage-the-subtle-signs-of-persuasion)
+- **[Recognizing Leakage: The Subtle Signs of Persuasion](posts/2025-11-10-recognizing-leakage-the-subtle-signs-of-persuasion.md)**  
+  2025-11-10T13:51:22+00:00 · [Source](https://highprobabilityselling.blog/2025/11/10/recognizing-leakage-the-subtle-signs-of-persuasion/comment-page-1)
 - **[The Small-Town Agent and the Circle of Relationships](posts/2025-11-03-the-small-town-agent-and-the-circle-of-relationships.md)**  
   2025-11-03T03:36:32+00:00 · [Source](https://highprobabilityselling.blog/2025/11/02/the-small-town-agent-and-the-circle-of-relationships)
 - **[Protecting the Conversation: How to Keep the Container Clean](posts/2025-10-26-protecting-the-conversation-how-to-keep-the-container-clean.md)**  
