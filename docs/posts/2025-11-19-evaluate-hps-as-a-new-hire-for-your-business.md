@@ -1,13 +1,14 @@
 ---
-title: "High Probability Selling Blog"
-source_url: https://highprobabilityselling.blog/2025/11
-published: 
+title: "Evaluate HPS as a New Hire for Your Business"
+source_url: https://highprobabilityselling.blog/2025/11/19/invitation-how-to-evaluate-whether-high-probability-selling-is-right-for-your-business-thu-20-nov-2025
+published: 2025-11-19T14:24:39+00:00
 ---
 In this session, we explore how to evaluate High Probability Selling as you would evaluate a new hire for your business — calmly, objectively, and on your own terms.
 
 
 
 
+ 
 
 I’d like to invite you to a session where we’ll take an objective look at whether **High Probability Selling (HPS)** is the right fit for your business.  Instead of simply asking whether HPS will work for you, for which the stock answer has traditionally been “yes”, we will show you a new way to conduct this evaluation for yourself, as a business owner (even if you don’t see yourself this way, we invite you to try on that identity for this exercise). 
 
@@ -51,104 +52,31 @@ If you’re interested in this perspective and would like to discuss how to deci
 [Click Here](https://highprobsell.com/product/how-to-evaluate-whether-hps-is-right-for-your-business-live-seminar-on-zoom-2025-11-20/?utm_source=blog_invitation&utm_medium=web&utm_campaign=forum_20251120&utm_content=register_here) to register. 
 
 
-### Like this:
-
-Like Loading...
-
- 
-
-
-
-We are introducing a Pay What You Decide option for some HPS events. You choose how much to pay — and you do that for your own reasons.
 
 
 
 
-
-For some of our upcoming High Probability Selling events, we are introducing a new flexible pricing option: **Pay What You Decide**.
-
-
-We will describe the event (or product or service) as clearly as we can. After that, you choose what to pay. Any amount is acceptable, including zero.
-
-
-Jacques Werth, the founder of High Probability Selling and coauthor of the book, often said:
+* Practitioner, student, and trainer and coach in High Probability Selling for over a quarter century.
 
 
 
-> *“People buy in their own time, and for their own reasons.”*
-
-
-People choose how much to pay for many different reasons. Some are practical, some are personal, and some are simply how they feel in the moment. The choice, and the reasons behind that choice, belong entirely to the buyer.
-
-
-**Action Option:**  
-You can see what our flexible pricing looks like [here](https://highprobsell.com/product/how-to-evaluate-whether-hps-is-right-for-your-business-live-seminar-on-zoom-2025-11-20/?utm_source=blog&utm_medium=web&utm_campaign=flex_pay_20251120&utm_content=action_option).   
-*(Clicking the link will not add anything to your cart.)*
+[View all posts](https://highprobabilityselling.blog/author/paulbunnhps/ "View all posts")
 
 
 
 
----
-
-
-We would love to hear your thoughts on this. Please add a comment to this post, so everyone can follow. 
 
 
 ### Like this:
 
 Like Loading...
 
- 
 
 
 
-Leakage is when old habits and beliefs subtly intrude and interfere with what we are trying to become — an internal conflict between conditioning and intention. In High Probability Selling, we learn to recognize it, release it, and return to calm respect where real communication begins.
+Author: Paul Bunn
+-----------------
 
 
 
-
-
-Leakage happens when a salesperson says they are not selling but their tone and timing say otherwise.  It shows up as tiny manipulations — the tie\-down question, the overly warm laugh, the pause meant to create pressure.  Once you have seen it, you cannot unsee it.   
-  
-The human brain, especially the limbic system, detects those signals instantly.  The prospect may not know why they feel uneasy, but they feel it.  Leakage destroys clarity.   
-  
-In High Probability Selling, we learn to notice it first in ourselves.  Whenever you feel the urge to “get them,” pause.  Check your body.  Tightness in the chest, rush in the voice — those are signs of attachment.  Release them.  Return to respect. 
-
-
-The goal is not to appear calm; it is to be calm.  When manipulation stops, communication becomes real again.  The prospect senses that there is nothing hidden, and the conversation becomes simple, direct, and free.  That freedom, not persuasion, is what makes agreements possible.
-
-
-### Like this:
-
-Like Loading...
-
- 
-
-
-
-In a small town, every sales conversation echoes. In High Probability Selling, manipulation is not just ineffective — it’s dangerous. The small\-town agent learns to stay truthful, respectful, and part of the same circle they serve.
-
-
-
-
-
-Selling in a small town is different.  You are not the chicken dropping an egg and walking away.  You are the pig at breakfast — part of the meal.  Your life and your reputation stay inside the same circle.   
-  
-In that environment, High Probability Selling is not optional; it is survival.  Every conversation must be free of manipulation, because every prospect is also a neighbor.  A single attempt at persuasion can ripple for years.   
-  
-The small\-town agent learns to qualify quickly and clearly.  “No” is not a failure; it is maintenance of peace.  Disqualifying someone for what you offer does not remove them from your circle.  It keeps the circle intact.   
-  
-The discipline of neutrality — saying exactly what is so, no more and no less — becomes a way of life.  Respect replaces performance.  When you treat each conversation as part of your ongoing community, not as a transaction, you stop chasing trust and start living inside it.
-
-
-
-
----
-
-
-*Adapted from a conversation between Paul Bunn and a student of High Probability Selling.*
-
-
-### Like this:
-
-Like Loading...
+ Practitioner, student, and trainer and coach in High Probability Selling for over a quarter century. [View all posts by Paul Bunn](https://highprobabilityselling.blog/author/paulbunnhps/)

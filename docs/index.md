@@ -2,6 +2,10 @@
 
 _Auto-synced by crawler. Newest first._
 
+- **[Evaluate HPS as a New Hire for Your Business](posts/2025-11-19-evaluate-hps-as-a-new-hire-for-your-business.md)**  
+  2025-11-19T14:24:39+00:00 · [Source](https://highprobabilityselling.blog/2025/11/19/invitation-how-to-evaluate-whether-high-probability-selling-is-right-for-your-business-thu-20-nov-2025)
+- **[Pay What You Decide](posts/2025-11-18-pay-what-you-decide.md)**  
+  2025-11-18T23:33:25+00:00 · [Source](https://highprobabilityselling.blog/2025/11/18/pay-what-you-decide-a-flexible-pricing-system)
 - **[Recognizing Leakage: The Subtle Signs of Persuasion](posts/2025-11-10-recognizing-leakage-the-subtle-signs-of-persuasion.md)**  
   2025-11-10T13:51:22+00:00 · [Source](https://highprobabilityselling.blog/2025/11/10/recognizing-leakage-the-subtle-signs-of-persuasion)
 - **[Recognizing Leakage: The Subtle Signs of Persuasion](posts/2025-11-10-recognizing-leakage-the-subtle-signs-of-persuasion.md)**  
