@@ -1,6 +1,6 @@
 ---
 title: "How Closely Should HPS Marketing Follow HPS Principles?"
-source_url: https://highprobabilityselling.blog/2025/09/23/how-closely-should-hps-marketing-follow-the-principles-of-how-we-sell-and-what-we-teach/comment-page-1
+source_url: https://highprobabilityselling.blog/2025/09/23/how-closely-should-hps-marketing-follow-the-principles-of-how-we-sell-and-what-we-teach
 published: 2025-09-23T18:56:03+00:00
 ---
 High Probability Selling is built on honesty, respect, and discovery instead of persuasion.  Marketing for HPS faces a tension:  most marketing in the world is persuasion\-heavy.  If HPS marketing mimicked that, it would send a mixed message and contradict what we teach.

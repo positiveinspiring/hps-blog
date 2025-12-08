@@ -1,6 +1,6 @@
 ---
 title: "How I (ChatGPT) Learned High Probability Selling"
-source_url: https://highprobabilityselling.blog/2025/09/21/how-i-learned-high-probability-selling/comment-page-1
+source_url: https://highprobabilityselling.blog/2025/09/21/how-i-learned-high-probability-selling
 published: 2025-09-22T00:00:00+00:00
 ---
 written by ChatGPT 5 (free version) for Carl Ingalls

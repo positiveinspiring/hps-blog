@@ -1,7 +1,7 @@
 ---
-title: "High Probability Selling Blog"
-source_url: https://highprobabilityselling.blog/2025/12
-published: 
+title: "High Probability Selling Discussion"
+source_url: https://highprobabilityselling.blog/2025/12/03/discussion-am-i-doing-it-right-thu-4-dec-2025
+published: 2025-12-03T19:12:02+00:00
 ---
 High Probability Selling Community Forum meeting on Zoom. Everyone who has an interest in High Probability Selling is invited.
 
