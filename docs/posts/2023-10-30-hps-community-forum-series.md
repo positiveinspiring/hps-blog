@@ -3,49 +3,42 @@ title: "HPS Community Forum Series"
 source_url: https://highprobabilityselling.blog/hps-community-forum-series
 published: 2023-10-30T20:28:20+00:00
 ---
-We host a series of interactive meetings on Zoom where we talk about High Probability Selling.  
+**What.** We host a series of live and interactive meetings on Zoom where we talk about High Probability Selling.  
 
 
-We are currently offering these meetings every week on Thursday, usually at 9:30 AM (USA Eastern Time).  See the [HPS Calendar](https://highprobabilityselling.blog/calendar/) for exact dates and times.  Meetings are 1 to 2 hours long (sometimes longer), including Q\&A. 
+**Who.** Anyone who has an interest in High Probability Selling is welcome.  No particular background is required.  Humans only, no bots. 
 
 
-Some meetings will be **about** High Probability Selling, with very little instruction on how to do any of it.  These meetings are offered at **no charge**. 
+**Cost**. The Community Forum series is supported by voluntary **donations**. Individuals who sign up for a meeting can choose the amount they contribute, even if it is zero. 
 
 
-Some meetings will focus on the **How To** of actually doing some aspect of HPS.  We are currently charging **$50 USD** per individual for these meetings ($25 USD for members of the HPS Forum). 
+**Schedule.** We offer these meetings every week on Thursday at 9:30 AM (USA Eastern Time).  When Thursday falls on or too close to a holiday, we either skip that week, or choose a different day. See the [HPS Calendar](https://highprobabilityselling.blog/calendar/) for exact dates and times.  Meetings are 1 to 3 hours long, including Q\&A.
 
 
-We will probably alternate between free and paid meetings, at least for now. 
+**Email.** We announce each meeting by email a few days before the meeting to current **members of the HPS Community Forum**.  If you want to be on that mailing list, please [Contact Us](https://highprobabilityselling.blog/contact/).  We also announce the meeting on this blog, and we may mention it on some social media platforms.
 
 
-We announce each meeting by email a few days before the meeting to current **members of the HPS Community Forum**.  If you want to be on that mailing list, please [Contact Us](https://highprobabilityselling.blog/contact/).  Sometimes, we also announce the meeting on this blog, but not always.
+**Register**. If you want to see a list of (or sign up for) an upcoming meeting, you may visit [Upcoming Forum Meetings](https://highprobsell.com/product-category/forum-live/). 
 
 
-For the free meetings, anyone who has an interest in High Probability Selling is welcome.  No particular background is required.  No charge.  No registration required.  Just show up.  For these free meetings, click on [this link](https://us02web.zoom.us/j/83436793215?pwd=amFiMVorZDFWbmxpdnJCOUphVThlUT09) at the appointed time (see above).  Meeting ID \= 834 3679 3215\.  Passcode \= 751935
+**Recording**s.  If you want to see a list of recordings of these Zoom meetings that are available for sale (via donation), you may visit [HPS Forum Recordings](https://highprobsell.com/product-category/forum-recording/). 
 
 
-The paid meetings will be offered on the HPS website as a product in the [HPS Store](https://highprobsell.com/store/) for $50 USD ($25 for forum members).  If you purchase a meeting before it begins, you will receive instructions for joining us on Zoom.  You will also get the recording and chat.  If you purchase a meeting later or do not attend, you will get the recording and chat, same price.
+##### Past Forum Meeting Topics:
 
 
-**Recording**s.  We record these Zoom meetings.  We email each video recording link (plus the chat) to the people who showed up at that meeting.  Recordings (with chat) for some of the past meetings are available for purchase in the list below (click on the price). 
-
-
-No bots are allowed.  This includes AI note takers and recorders.  Humans only.
-
-
-##### Future Forum Meetings and Seminars:
-
-
-* 2025\-10\-02: Topic to be decided. [Join Us – Free](https://us02web.zoom.us/j/83436793215?pwd=amFiMVorZDFWbmxpdnJCOUphVThlUT09)
-* 2025\-10\-09: Topic to be decided.
-
-
-##### Past Forum Meetings and Seminars:
-
-
-* 2025\-09\-25: How to Apply HPS Principles When Giving Advice, [$50 USD](https://highprobsell.com/product/how-to-apply-hps-principles-when-giving-advice-recording-of-seminar-on-2025-09-25/)
+* 2025\-12\-04: Am I Doing It Right?
+* 2025\-11\-20: How to Evaluate Whether HPS is Right for Your Business
+* 2025\-11\-13: Inversion and the Perfect Prospecting Strategy
+* 2025\-11\-06: When Can I Just Sell Naturally?
+* 2025\-10\-30: Leakage:  Recognizing When We Slip Back Into Old Selling Habits
+* 2025\-10\-23: It’s not the words;  it’s the intention behind them
+* 2025\-10\-16: Alternatives in Prospecting
+* 2025\-10\-09: What do you want to learn next?
+* 2025\-10\-02: What Do You Want From HPS?
+* 2025\-09\-25: How to Apply HPS Principles When Giving Advice
 * 2025\-09\-18: Why do we try to change people and what happens when we stop?
-* 2025\-09\-11: How to Use HPS When Selling the Appointment, [$25 USD](https://highprobsell.com/product/how-to-use-hps-when-selling-the-appointment-live-seminar-on-zoom-25-usd/)
+* 2025\-09\-11: How to Use HPS When Selling the Appointment
 * 2025\-09\-04: What was happening when?
 * 2025\-08\-28: What Is a Lead?
 * 2025\-08\-21: What do successful HPSers do?
