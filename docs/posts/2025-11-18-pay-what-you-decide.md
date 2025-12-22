@@ -1,6 +1,6 @@
 ---
 title: "Pay What You Decide"
-source_url: https://highprobabilityselling.blog/2025/11/18/pay-what-you-decide-a-flexible-pricing-system
+source_url: https://highprobabilityselling.blog/2025/11/18/pay-what-you-decide-a-flexible-pricing-system/comment-page-1
 published: 2025-11-18T23:33:25+00:00
 ---
 We are introducing a Pay What You Decide option for some HPS events. You choose how much to pay — and you do that for your own reasons.

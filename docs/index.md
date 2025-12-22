@@ -2,12 +2,16 @@
 
 _Auto-synced by crawler. Newest first._
 
+- **[We Are Suckers for the Appearance of Simplicity](posts/2025-12-18-we-are-suckers-for-the-appearance-of-simplicity.md)**  
+  2025-12-18T03:24:10+00:00 · [Source](https://highprobabilityselling.blog/2025/12/17/we-are-suckers-for-the-appearance-of-simplicity)
 - **[High Probability Selling Discussion](posts/2025-12-03-high-probability-selling-discussion.md)**  
   2025-12-03T19:12:02+00:00 · [Source](https://highprobabilityselling.blog/2025/12/03/discussion-am-i-doing-it-right-thu-4-dec-2025)
 - **[Evaluate HPS as a New Hire for Your Business](posts/2025-11-19-evaluate-hps-as-a-new-hire-for-your-business.md)**  
   2025-11-19T14:24:39+00:00 · [Source](https://highprobabilityselling.blog/2025/11/19/invitation-how-to-evaluate-whether-high-probability-selling-is-right-for-your-business-thu-20-nov-2025)
 - **[Pay What You Decide](posts/2025-11-18-pay-what-you-decide.md)**  
   2025-11-18T23:33:25+00:00 · [Source](https://highprobabilityselling.blog/2025/11/18/pay-what-you-decide-a-flexible-pricing-system)
+- **[Pay What You Decide](posts/2025-11-18-pay-what-you-decide.md)**  
+  2025-11-18T23:33:25+00:00 · [Source](https://highprobabilityselling.blog/2025/11/18/pay-what-you-decide-a-flexible-pricing-system/comment-page-1)
 - **[Recognizing Leakage: The Subtle Signs of Persuasion](posts/2025-11-10-recognizing-leakage-the-subtle-signs-of-persuasion.md)**  
   2025-11-10T13:51:22+00:00 · [Source](https://highprobabilityselling.blog/2025/11/10/recognizing-leakage-the-subtle-signs-of-persuasion)
 - **[Recognizing Leakage: The Subtle Signs of Persuasion](posts/2025-11-10-recognizing-leakage-the-subtle-signs-of-persuasion.md)**  
