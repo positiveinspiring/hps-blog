@@ -2,6 +2,8 @@
 
 _Auto-synced by crawler. Newest first._
 
+- **[An HPS Community Forum on Staying Oriented](posts/2025-12-26-an-hps-community-forum-on-staying-oriented.md)**  
+  2025-12-26T13:44:52+00:00 · [Source](https://highprobabilityselling.blog/2025/12/26/what-do-i-do-when-unexpected-events-screw-up-my-well-planned-hps-sales-process-forum-discussion-30-dec-2025)
 - **[We Are Suckers for the Appearance of Simplicity](posts/2025-12-18-we-are-suckers-for-the-appearance-of-simplicity.md)**  
   2025-12-18T03:24:10+00:00 · [Source](https://highprobabilityselling.blog/2025/12/17/we-are-suckers-for-the-appearance-of-simplicity)
 - **[High Probability Selling Discussion](posts/2025-12-03-high-probability-selling-discussion.md)**  

@@ -1,7 +1,7 @@
 ---
-title: "High Probability Selling Blog"
-source_url: https://highprobabilityselling.blog/2025/12
-published: 
+title: "An HPS Community Forum on Staying Oriented"
+source_url: https://highprobabilityselling.blog/2025/12/26/what-do-i-do-when-unexpected-events-screw-up-my-well-planned-hps-sales-process-forum-discussion-30-dec-2025
+published: 2025-12-26T13:44:52+00:00
 ---
 Harold Macmillan, Prime Minister of the United Kingdom from 1957 to 1963, was once asked the question, “Considering all of your experience and preparation, what is most likely to blow a government off course?”
 
@@ -48,6 +48,31 @@ If you want to **attend** this Live Forum event, please [register here](https://
 If you want the **recording** for this Forum event, please wait until the following day (Wed 31 Dec) and then order the recording from the [HPS Online Store](https://highprobsell.com/store/). 
 
 
+
+
+
+
+* Practitioner, student, and trainer and coach in High Probability Selling for over a quarter century.
+
+
+
+[View all posts](https://highprobabilityselling.blog/author/paulbunnhps/ "View all posts")
+
+
+
+
+
+
 ### Like this:
 
 Like Loading...
+
+
+
+
+Author: Paul Bunn
+-----------------
+
+
+
+ Practitioner, student, and trainer and coach in High Probability Selling for over a quarter century. [View all posts by Paul Bunn](https://highprobabilityselling.blog/author/paulbunnhps/)
